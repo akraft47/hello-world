@@ -1,2 +1,3 @@
 # hello-world
-reposiroty heißt aufbewahrungsort
+repository heißt aufbewahrungsort
+branch heißt zweig
